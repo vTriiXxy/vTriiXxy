@@ -90,23 +90,98 @@
 
 <h2 align="center">📜 Certificaciones & Logros</h2>
 
-| Certificado                               | Emisor                    | Año  |
-| ----------------------------------------- | ------------------------- | ---- |
-| 🏅 IT Essentials (Insignia Verificada)    | Cisco Networking Academy  | 2025 |
-| 📊 Power BI Business Intelligence         | Daxus Latam               | 2025 |
-| 🐍 Python para Data Science               | Santander Open Academy    | 2024 |
-| 🏆 Ganador Concurso SaviaLab              | SaviaLab / Innovación     | 2021 |
-| ⚡ Seguridad Eléctrica Nivel 1           | ACHS                      | 2021 |
+<div align="center">
+  <table width="80%">
+    <thead>
+      <tr align="center">
+        <th>Certificado</th>
+        <th>Emisor</th>
+        <th>Año</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="center">
+        <td>
+          🏅 IT Essentials (Insignia Verificada)
+          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank">[D1]</a>
+          <a href="assets/certificates/Cisco/Diploma-2.pdf" target="_blank">[D2]</a>
+          <a href="assets/certificates/Cisco/Diploma-3.pdf" target="_blank">[D3]</a>
+          <a href="assets/certificates/Cisco/Insignia.png" target="_blank">[Insignia]</a>
+        </td>
+        <td>Cisco Networking Academy</td>
+        <td>2024</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Powe%20BI%20Daxus%20Latam/Diploma-1.pdf" target="_blank">📊 Power BI Business Intelligence</a></td>
+        <td>Daxus Latam</td>
+        <td>2025</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Santander%20Open%20Academy/Diploma-1.pdf" target="_blank">🐍 Introduccion a Python</a></td>
+        <td>Santander Open Academy</td>
+        <td>2025</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Savialab/Diploma-1.pdf" target="_blank">🏆 Ganador Concurso SaviaLab</a></td>
+        <td>SaviaLab / Innovación</td>
+        <td>2021</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/ACHS/Diploma-1.pdf" target="_blank">⚡ Seguridad Eléctrica Nivel 1</a></td>
+        <td>ACHS</td>
+        <td>2021</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Desarrollo%20de%20Aplicaciones%20Iniciales/Diploma-1.pdf" target="_blank">🔧 Desarrollo de Aplicaciones Iniciales</a></td>
+        <td>INACAP</td>
+        <td>2025</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Electricidad%20y%20Automatizacion%20INACAP/Diploma-1.pdf" target="_blank">⚡ Electricidad y Automatización</a></td>
+        <td>INACAP</td>
+        <td>2022</td>
+      </tr>
+      <tr align="center">
+        <td><a href="assets/certificates/Infraestructura%20TI%20Segura/Diploma-1.pdf" target="_blank">🔒 Infraestructura TI Segura</a></td>
+        <td>INACAP</td>
+        <td>2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <!-- 6. PROYECTOS DESTACADOS (Iniciativa Propia) -->
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-| Proyecto                                    | Descripción                                                       | Tecnologías        |
-| ------------------------------------------- | ----------------------------------------------------------------- | ------------------ |
-| 🏆 [Education Anywhere](#)                  | Ganador SaviaLab. Solución tecnológica para acceso educativo.     | Innovación, IoT    |
-| 📊 [Dashboards BI](#)                       | Visualización de KPIs estratégicos para toma de decisiones.       | Power BI, DAX      |
-| 🌐 [Web Freelance](#)                        | Sitios web responsivos desarrollados para clientes locales.       | React, JS, HTML    |
+<div align="center">
+  <table width="80%">
+    <thead>
+      <tr align="center">
+        <th>Proyecto</th>
+        <th>Descripción</th>
+        <th>Tecnologías</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="center">
+        <td>🏆 [Education Anywhere](#)</td>
+        <td>Ganador SaviaLab. Solución tecnológica para acceso educativo.</td>
+        <td>Innovación, IoT</td>
+      </tr>
+      <tr align="center">
+        <td>📊 [Dashboards BI](#)</td>
+        <td>Visualización de KPIs estratégicos para toma de decisiones.</td>
+        <td>Power BI, DAX</td>
+      </tr>
+      <tr align="center">
+        <td>🌐 [Web Freelance](#)</td>
+        <td>Sitios web responsivos desarrollados para clientes locales.</td>
+        <td>React, JS, HTML</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <!-- 7. PROYECTOS UNIVERSITARIOS (Desplegables para mantener orden) -->
 
