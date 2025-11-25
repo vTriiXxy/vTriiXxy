@@ -13,16 +13,8 @@
   <a href="https://discordapp.com/users/vtrixxy_#9155" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.reddit.com/user/Maximum_Road3908" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Vaaaaadzhuuueqq/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://www.threads.net/@vtrixxy.y" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@vtrixxy1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href="https://www.epicgames.com/id/47402eecb2fb4a3da9dd73c5fcddf15f" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=epic-games&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- GIF Separador -->
-<br>
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pvM2E4dmZscDQ2MXp5ZjJsemk4c3Y1b2d2MXB4YnpmNWRsNHloaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7aTH8nsNUdvhUk/giphy.gif" width="250"/>
-</div>
 <br>
 
 <!-- 3. SOBRE MÍ -->
@@ -43,21 +35,21 @@
   <table width="80%">
     <tr align="center">
       <td width="33%">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVka2MybnR3MnVsbzkxYTNmcW95ZHdrNzhoZjRyMHJta2NieGlycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7OswD3nOX0geqjh6/giphy.gif" width="80">
+        <span style="font-size: 50px;">🚀</span>
         <br>
         <b>Actitud Proactiva</b>
         <br>
         Responsable, puntual y con experiencia liderando equipos bajo presión.
       </td>
       <td width="33%">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd5eDFueDRreXVseHRleDJqMDZpbHd1c3FzaWhieTM3dXZzOHlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxffMyVjqAnuJpJu/giphy.gif" width="80">
+        <span style="font-size: 50px;">💡</span>
         <br>
         <b>Innovación con Propósito</b>
         <br>
         Ganador de SaviaLab 2021, donde aprendí que la tecnología debe ser útil.
       </td>
       <td width="33%">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWllaHdyM29ldTg3bnlvcWx3NnF2eHh4Zmdma2QyZTFsdmh1b2cxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SlCswMa3aljna/giphy.gif" width="80">
+        <span style="font-size: 50px;">🔭</span>
         <br>
         <b>Visión a Futuro</b>
         <br>
@@ -158,9 +150,24 @@ Repositorios de evaluaciones y laboratorios organizados por área.
 
 </details>
 
+<!-- 8. CONTACTO -->
+
+<h2 align="center">📫 Contacto</h2>
+
+<p align="center">
+  Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme!
+  <br>
+  Puedes escribirme a: <b>cris.macaya.91@gmail.com</b>
+</p>
+
 <!-- FOOTER ESTADÍSTICAS -->
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vTriiXxy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="140em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&theme=radical&hide_border=true" height="140em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vTriiXxy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="140em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&theme=radical&hide_border=true" height="140em" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vTriiXxy&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vTriiXxy&bg_color=1d2228&color=ffffff&line=f85d7f&point=f8d866&area=true&hide_border=true" />
 </div>
