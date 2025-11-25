@@ -7,6 +7,7 @@
 <!-- 2. REDES SOCIALES -->
 
 <div align="center">
+  <a href="documents/cv-cristopher-macaya.pdf" target="_blank"><img src="https://img.shields.io/badge/Ver_CV-212121?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristopher-macaya-59b148279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/vTriiXxy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vtrixxy.y" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,6 +17,23 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=vTriiXxy&color=blueviolet" alt="Profile views" />
 </div>
+
+<br>
+
+<!-- ÍNDICE (DESPLEGABLE) -->
+<details>
+<summary align="center">🧭 Ver Índice de Contenidos</summary>
+<div align="center">
+<br>
+  <a href="#arsenal-tecnologico"><img src="https://img.shields.io/badge/Arsenal_Tecnológico-1572B6?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
+  <a href="#certificaciones"><img src="https://img.shields.io/badge/Certificaciones-31A852?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Proyectos_Destacados-FF4500?style=for-the-badge&logo=rocket&logoColor=white"></a>
+  <a href="#proyectos-universitarios"><img src="https://img.shields.io/badge/Proyectos_Universitarios-FFC107?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#estadisticas-github"><img src="https://img.shields.io/badge/Estadísticas-8A2BE2?style=for-the-badge&logo=github-sponsors&logoColor=white"></a>
+  <a href="#contacto"><img src="https://img.shields.io/badge/Contacto-E4405F?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+<br>
+</div>
+</details>
 
 <br>
 
@@ -65,7 +83,7 @@
 
 <!-- 4. TECNOLOGÍAS Y LENGUAJES -->
 
-<h2 align="center">🛠️ Arsenal Tecnológico</h2>
+<h2 align="center" id="arsenal-tecnologico">🛠️ Arsenal Tecnológico</h2>
 
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -85,7 +103,7 @@
 
 <!-- 5. CERTIFICADOS E INSIGNIAS -->
 
-<h2 align="center">📜 Certificaciones & Logros</h2>
+<h2 align="center" id="certificaciones">📜 Certificaciones & Logros</h2>
 
 <details>
 <summary align="center">Haz clic para ver la lista de certificaciones</summary>
@@ -155,7 +173,7 @@
 
 <!-- 6. PROYECTOS DESTACADOS (Iniciativa Propia) -->
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center" id="proyectos-destacados">🚀 Proyectos Destacados</h2>
 
 <div align="center">
   <table width="80%">
@@ -190,7 +208,7 @@
 
 <!-- 7. PROYECTOS UNIVERSITARIOS (Desplegables para mantener orden) -->
 
-<h2 align="center">🎓 Proyectos Universitarios (INACAP)</h2>
+<h2 align="center" id="proyectos-universitarios">🎓 Proyectos Universitarios (INACAP)</h2>
 
 <div align="center">
 <p>Repositorios de evaluaciones y laboratorios organizados por área.</p>
@@ -290,9 +308,11 @@
 
 <!-- 8. CONTACTO -->
 
-<h2 align="center">📫 Contacto</h2>
+<h2 align="center" id="contacto">📫 Contacto</h2>
 
 <p align="center">
+  <a href="documents/cv-cristopher-macaya.pdf" target="_blank"><img src="https://img.shields.io/badge/Ver_CV-212121?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
+  <br><br>
   Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme!
   <br>
   Puedes escribirme a: <a href="mailto:cris.macaya.91@gmail.com"><b>cris.macaya.91@gmail.com</b></a> 📧
@@ -301,11 +321,11 @@
 <hr>
 
 <!-- FOOTER ESTADÍSTICAS -->
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center" id="estadisticas-github">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vTriiXxy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vTriiXxy&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=vTriiXxy&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
   <br><br>
