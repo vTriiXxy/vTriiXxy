@@ -1,16 +1,166 @@
-## Hi there 👋
+<!-- 1. FOTO DE PORTADA (BANNER AUTOMÁTICO) -->
 
-<!--
-**vTriiXxy/vTriiXxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="assets/Banner.jpg" width="100%"/>
+</div>
 
-Here are some ideas to get you started:
+<!-- 2. REDES SOCIALES -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristopher-macaya-59b148279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/vTriiXxy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vtrixxy.y" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/vtrixxy_#9155" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.reddit.com/user/Maximum_Road3908" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/Vaaaaadzhuuueqq/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.threads.net/@vtrixxy.y" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@vtrixxy1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.epicgames.com/id/47402eecb2fb4a3da9dd73c5fcddf15f" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=epic-games&logoColor=white" target="_blank"></a>
+</div>
+
+<!-- GIF Separador -->
+<br>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pvM2E4dmZscDQ2MXp5ZjJsemk4c3Y1b2d2MXB4YnpmNWRsNHloaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7aTH8nsNUdvhUk/giphy.gif" width="250"/>
+</div>
+<br>
+
+<!-- 3. SOBRE MÍ -->
+
+<h1 align="center">Hola, soy Cristopher! 👋</h1>
+
+<div align="center">
+  <em>Ingeniero en Informática con pasión por conectar <b>Hardware y Software</b> 🔌💻</em>
+  <br>
+  <br>
+  <p>Vengo del mundo de la <b>Electrónica</b>, donde aprendí a pensar con lógica y precisión. Ahora, aplico esa misma disciplina al <b>Desarrollo de Software</b> y al <b>Análisis de Datos</b> para entender la tecnología de extremo a extremo.</p>
+  <p>No me conformo con lo básico, siempre busco resolver problemas reales de formas creativas.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <table width="80%">
+    <tr align="center">
+      <td width="33%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVka2MybnR3MnVsbzkxYTNmcW95ZHdrNzhoZjRyMHJta2NieGlycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7OswD3nOX0geqjh6/giphy.gif" width="80">
+        <br>
+        <b>Actitud Proactiva</b>
+        <br>
+        Responsable, puntual y con experiencia liderando equipos bajo presión.
+      </td>
+      <td width="33%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd5eDFueDRreXVseHRleDJqMDZpbHd1c3FzaWhieTM3dXZzOHlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxffMyVjqAnuJpJu/giphy.gif" width="80">
+        <br>
+        <b>Innovación con Propósito</b>
+        <br>
+        Ganador de SaviaLab 2021, donde aprendí que la tecnología debe ser útil.
+      </td>
+      <td width="33%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWllaHdyM29ldTg3bnlvcWx3NnF2eHh4Zmdma2QyZTFsdmh1b2cxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SlCswMa3aljna/giphy.gif" width="80">
+        <br>
+        <b>Visión a Futuro</b>
+        <br>
+        Enriqueciendo mis conocimientos y preparándome para roles de liderazgo técnico como Scrum Master.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 4. TECNOLOGÍAS Y LENGUAJES -->
+
+<h2 align="center">🛠️ Arsenal Tecnológico</h2>
+
+<p align="center">
+  <b>Lenguajes de Programación</b><br>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <b>Desarrollo Web (Frontend)</b><br>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+</p>
+
+<p align="center">
+  <b>Análisis de Datos e Infraestructura</b><br>
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
+</p>
+
+<!-- 5. CERTIFICADOS E INSIGNIAS -->
+
+<h2 align="center">📜 Certificaciones & Logros</h2>
+
+| Certificado                               | Emisor                    | Año  |
+| ----------------------------------------- | ------------------------- | ---- |
+| 🏅 IT Essentials (Insignia Verificada)    | Cisco Networking Academy  | 2025 |
+| 📊 Power BI Business Intelligence         | Daxus Latam               | 2025 |
+| 🐍 Python para Data Science               | Santander Open Academy    | 2024 |
+| 🏆 Ganador Concurso SaviaLab              | SaviaLab / Innovación     | 2021 |
+| ⚡ Seguridad Eléctrica Nivel 1           | ACHS                      | 2021 |
+
+<!-- 6. PROYECTOS DESTACADOS (Iniciativa Propia) -->
+
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+| Proyecto                                    | Descripción                                                       | Tecnologías        |
+| ------------------------------------------- | ----------------------------------------------------------------- | ------------------ |
+| 🏆 [Education Anywhere](#)                  | Ganador SaviaLab. Solución tecnológica para acceso educativo.     | Innovación, IoT    |
+| 📊 [Dashboards BI](#)                       | Visualización de KPIs estratégicos para toma de decisiones.       | Power BI, DAX      |
+| 🌐 [Web Freelance](#)                        | Sitios web responsivos desarrollados para clientes locales.       | React, JS, HTML    |
+
+<!-- 7. PROYECTOS UNIVERSITARIOS (Desplegables para mantener orden) -->
+
+🎓 Proyectos Universitarios (INACAP)
+
+Repositorios de evaluaciones y laboratorios organizados por área.
+
+<!-- SUBSECCIÓN 1: BACKEND -->
+
+<details>
+<summary><b>☕ Backend & Programación (Java / Kotlin)</b> (Click para ver)</summary>
+
+| Repositorio                                   | Descripción                                 | Lenguaje |
+| --------------------------------------------- | ------------------------------------------- | -------- |
+| 📂 [Evaluacion-POO-1](#)                      | Sistema de gestión de ventas usando herencia. | Java     |
+| 📂 [Calculadora-Kotlin](#)                    | App móvil básica de operaciones matemáticas.| Kotlin   |
+
+</details>
+
+<!-- SUBSECCIÓN 2: WEB -->
+
+<details>
+<summary><b>🌐 Desarrollo Web Front-End</b> (Click para ver)</summary>
+
+| Repositorio                                   | Descripción                                 | Tecnologías |
+| --------------------------------------------- | ------------------------------------------- | ----------- |
+| 📂 [Landing-Page-Tarea](#)                    | Maquetación semántica y estilos.            | HTML/CSS    |
+| 📂 [Formulario-JS](#)                          | Validación de datos con JavaScript.         | JS          |
+
+</details>
+
+<!-- SUBSECCIÓN 3: DATOS -->
+
+<details>
+<summary><b>🗄️ Bases de Datos</b> (Click para ver)</summary>
+
+| Repositorio                                   | Descripción                                 | Motor       |
+| --------------------------------------------- | ------------------------------------------- | ----------- |
+| 📂 [Modelado-Relacional](#)                   | Script SQL de creación de tablas.           | SQL Server  |
+| 📂 [Consultas-Avanzadas](#)                   | Ejercicios de Joins y Stored Procedures.    | Oracle      |
+
+</details>
+
+<!-- FOOTER ESTADÍSTICAS -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vTriiXxy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="140em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&theme=radical&hide_border=true" height="140em" />
+</div>
