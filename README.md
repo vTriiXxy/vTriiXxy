@@ -44,11 +44,11 @@
 </div>
 
 <div align="center">
-  <em>Ingeniero en Informática con pasión por conectar <b>Hardware y Software</b> 🔌💻</em>
+  <em>Ingeniero en Informática | Hardware & Software Integration</em>
   <br>
   <br>
-  <p>Mi background en <b>Electrónica</b> me dio una base sólida en lógica y precisión, principios que ahora aplico en el <b>Desarrollo de Software</b> y <b>Análisis de Datos</b> para crear soluciones tecnológicas completas y eficientes.</p>
-  <p>Busco constantemente resolver problemas de formas creativas y no me conformo con lo básico.</p>
+  <p>Experto en traducir requerimientos lógicos en soluciones tecnológicas tangibles. Combino el rigor del análisis de circuitos con la agilidad del desarrollo de software para crear aplicaciones y análisis de datos de alto impacto.</p>
+  <p>Me motiva la innovación práctica: resolver desafíos reales mediante una ingeniería creativa y disciplinada.</p>
 </div>
 
 <br>
@@ -85,9 +85,21 @@
 
 <div align="center">
   <h3>🎧 Coding Vibes</h3>
-  <a href="https://spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&bar_color=53b14f&text_color=ffffff" alt="Spotify Playing" width="350" />
+  <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA&playnext=1&si=KRkFFO5ITOsnZRwA" target="_blank">
+    <img src="https://github-readme-youtube-cards.vercel.app/api/playlist?id=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA" alt="Mi Playlist para Programar en YouTube Music"/>
   </a>
+</div>
+
+<hr>
+
+<!-- SNAKE -->
+<div align="center">
+  <h3>🐍 Mi Historial de Contribuciones... ¡en una serpiente!</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <hr>
