@@ -86,7 +86,7 @@
 <div align="center">
   <h3>🎧 Coding Vibes</h3>
   <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA&playnext=1&si=KRkFFO5ITOsnZRwA" target="_blank">
-    <img src="https://github-readme-youtube-cards.vercel.app/api/playlist?id=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA" alt="Mi Playlist para Programar en YouTube Music"/>
+    <img src="assets/playlist-cover.jpg" alt="Mi Playlist para Programar en YouTube Music" width="350"/>
   </a>
 </div>
 
