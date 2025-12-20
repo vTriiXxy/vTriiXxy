@@ -85,8 +85,36 @@
 
 <div align="center">
   <h3>🎧 Coding Vibes</h3>
-  <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA&playnext=1&si=KRkFFO5ITOsnZRwA" target="_blank">
-    <img src="assets/playlist-cover.jpg" alt="Mi Playlist para Programar en YouTube Music" width="350"/>
+  <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m6G7SIpoC-9YgB58sG5_NOIbKEEeJQ4rA&playnext=1&si=KRkFFO5ITOsnZRwA" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: flex;
+      align-items: center;
+      width: 350px;
+      padding: 16px;
+      background-color: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+      box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.4)';">
+      <!-- Columna Izquierda: Imagen -->
+      <div style="flex-shrink: 0;">
+        <img src="assets/playlist-cover.jpg" alt="Mi Playlist para Programar en YouTube Music" width="100" height="100" style="border-radius: 8px;"/>
+      </div>
+      <!-- Columna Derecha: Contenido -->
+      <div style="flex-grow: 1; padding-left: 16px; display: flex; flex-direction: column; justify-content: center;">
+        <!-- Fila Superior: Logo y Título -->
+        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 12px;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtubemusic.svg" alt="YouTube Music" width="25" style="filter: invert(1); margin-right: 8px;"/>
+          <span style="color: #c9d1d9; font-size: 16px; font-weight: 600;">Chillhop</span>
+        </div>
+        <!-- Fila Inferior: Animación -->
+        <div style="display: flex; justify-content: center;">
+          <img src="https://i.imgur.com/xAhJt3s.gif" width="150" alt="Now Playing"/>
+        </div>
+      </div>
+    </div>
   </a>
 </div>
 
