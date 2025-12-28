@@ -111,7 +111,7 @@
         </div>
         <!-- Fila Inferior: Animación -->
         <div style="display: flex; justify-content: center;">
-          <img src="https://i.imgur.com/xAhJt3s.gif" width="150" alt="Now Playing"/>
+          <img src="assets/now-playing.gif" width="150" alt="Now Playing"/>
         </div>
       </div>
     </div>
