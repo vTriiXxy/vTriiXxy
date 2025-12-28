@@ -1,0 +1,25 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Se ejecuta semanalmente los domingos a medianoche
+    - cron: '0 0 * * 0'
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Lychee Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Escanea recursivamente todos los archivos Markdown.
+          args: "**/*.md"
+          # El token es necesario para que la action pueda acceder a la API de GitHub 
+          # y evitar límites de tasa al verificar enlaces a otros repositorios.
+          github_token: ${{secrets.GITHUB_TOKEN}}

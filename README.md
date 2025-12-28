@@ -217,29 +217,64 @@
 <h2 align="center" id="proyectos-destacados">🚀 Proyectos Destacados</h2>
 
 <div align="center">
-  <table width="80%">
+  <table width="90%">
     <thead>
       <tr align="center">
-        <th>Proyecto</th>
-        <th>Descripción</th>
-        <th>Tecnologías</th>
+        <th width="30%">Proyecto</th>
+        <th width="45%">Descripción Detallada</th>
+        <th width="25%">Tecnologías</th>
       </tr>
     </thead>
     <tbody>
-      <tr align="center">
-        <td>🏆 [Education Anywhere](#)</td>
-        <td>Ganador SaviaLab. Solución tecnológica para acceso educativo.</td>
-        <td>Innovación, IoT</td>
+      <!-- PLANTILLA DE PROYECTO -->
+      <tr align="left">
+        <td>
+          <b>🏆 Education Anywhere</b>
+          <br>
+          <a href="URL_DEL_REPOSITORIO" target="_blank">[Ver Repositorio]</a> | 
+          <a href="URL_DE_LA_DEMO" target="_blank">[Ver Demo]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Descripción breve del problema que el proyecto resuelve.
+          <br>
+          <b>Solución:</b> Explicación de la solución, sus características clave y el impacto que tuvo (ej. Ganador de SaviaLab).
+        </td>
+        <td>
+          <code>Innovación</code> <code>IoT</code> <code>Hardware</code>
+        </td>
       </tr>
-      <tr align="center">
-        <td>📊 [Dashboards BI](#)</td>
-        <td>Visualización de KPIs estratégicos para toma de decisiones.</td>
-        <td>Power BI, DAX</td>
+      <!-- FIN PLANTILLA -->
+      <tr align="left">
+        <td>
+          <b>📊 Dashboards BI</b>
+          <br>
+          <a href="URL_DEL_REPOSITORIO" target="_blank">[Ver Repositorio]</a> | 
+          <a href="URL_DE_LA_DEMO" target="_blank">[Ver Demo]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Las empresas necesitaban visualizar KPIs para la toma de decisiones estratégicas.
+          <br>
+          <b>Solución:</b> Creación de dashboards interactivos que centralizan y presentan datos de manera clara.
+        </td>
+        <td>
+          <code>Power BI</code> <code>DAX</code> <code>SQL</code>
+        </td>
       </tr>
-      <tr align="center">
-        <td>🌐 [Web Freelance](#)</td>
-        <td>Sitios web responsivos desarrollados para clientes locales.</td>
-        <td>React, JS, HTML</td>
+      <tr align="left">
+        <td>
+          <b>🌐 Web Freelance</b>
+          <br>
+          <a href="URL_DEL_REPOSITORIO" target="_blank">[Ver Repositorio]</a> | 
+          <a href="URL_DE_LA_DEMO" target="_blank">[Ver Demo]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Clientes locales sin presencia digital o con sitios web obsoletos.
+          <br>
+          <b>Solución:</b> Desarrollo de sitios web modernos, responsivos y optimizados para las necesidades del cliente.
+        </td>
+        <td>
+          <code>React</code> <code>JavaScript</code> <code>HTML/CSS</code>
+        </td>
       </tr>
     </tbody>
   </table>
