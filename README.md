@@ -171,6 +171,9 @@
 
 <h2 align="center" id="proyectos-destacados">🚀 Proyectos Destacados</h2>
 
+<details>
+<summary align="center">Haga clic para desplegar Proyectos Destacados</summary>
+<br>
 <div align="center">
   <table width="90%">
     <thead>
@@ -215,6 +218,7 @@
     </tbody>
   </table>
 </div>
+</details>
 
 <hr>
 
@@ -226,90 +230,55 @@
 <p>Repositorios de evaluaciones y laboratorios organizados por área.</p>
 </div>
 
-<!-- SUBSECCIÓN 1: BACKEND -->
-
 <details>
-<summary><b>☕ Backend & Programación (Java / Kotlin)</b> (Click para ver)</summary>
+<summary align="center">Haz clic para ver todos los proyectos universitarios</summary>
 <br>
 <div align="center">
-  <table width="80%">
+  <table width="90%">
     <thead>
       <tr align="center">
-        <th>Repositorio</th>
-        <th>Descripción</th>
-        <th>Lenguaje</th>
+        <th width="25%">Repositorio del Proyecto</th>
+        <th width="40%">Descripción</th>
+        <th width="15%">Lenguaje</th>
+        <th width="20%">Ramo</th>
       </tr>
     </thead>
     <tbody>
       <tr align="center">
-        <td>📂 [Evaluacion-POO-1](#)</td>
+        <td><a href="#">📂 Evaluacion-POO-1</a></td>
         <td>Sistema de gestión de ventas usando herencia.</td>
         <td>Java</td>
+        <td>Backend & Programación</td>
       </tr>
       <tr align="center">
-        <td>📂 [Calculadora-Kotlin](#)</td>
+        <td><a href="#">📂 Calculadora-Kotlin</a></td>
         <td>App móvil básica de operaciones matemáticas.</td>
         <td>Kotlin</td>
+        <td>Backend & Programación</td>
       </tr>
-    </tbody>
-  </table>
-</div>
-</details>
-
-<!-- SUBSECCIÓN 2: WEB -->
-
-<details>
-<summary><b>🌐 Desarrollo Web Front-End</b> (Click para ver)</summary>
-<br>
-<div align="center">
-  <table width="80%">
-    <thead>
       <tr align="center">
-        <th>Repositorio</th>
-        <th>Descripción</th>
-        <th>Tecnologías</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr align="center">
-        <td>📂 [Landing-Page-Tarea](#)</td>
+        <td><a href="#">📂 Landing-Page-Tarea</a></td>
         <td>Maquetación semántica y estilos.</td>
         <td>HTML/CSS</td>
+        <td>Desarrollo Web Front-End</td>
       </tr>
       <tr align="center">
-        <td>📂 [Formulario-JS](#)</td>
+        <td><a href="#">📂 Formulario-JS</a></td>
         <td>Validación de datos con JavaScript.</td>
         <td>JS</td>
+        <td>Desarrollo Web Front-End</td>
       </tr>
-    </tbody>
-  </table>
-</div>
-</details>
-
-<!-- SUBSECCIÓN 3: DATOS -->
-
-<details>
-<summary><b>🗄️ Bases de Datos</b> (Click para ver)</summary>
-<br>
-<div align="center">
-  <table width="80%">
-    <thead>
       <tr align="center">
-        <th>Repositorio</th>
-        <th>Descripción</th>
-        <th>Motor</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr align="center">
-        <td>📂 [Modelado-Relacional](#)</td>
+        <td><a href="#">📂 Modelado-Relacional</a></td>
         <td>Script SQL de creación de tablas.</td>
         <td>SQL Server</td>
+        <td>Bases de Datos</td>
       </tr>
       <tr align="center">
-        <td>📂 [Consultas-Avanzadas](#)</td>
+        <td><a href="#">📂 Consultas-Avanzadas</a></td>
         <td>Ejercicios de Joins y Stored Procedures.</td>
         <td>Oracle</td>
+        <td>Bases de Datos</td>
       </tr>
     </tbody>
   </table>
