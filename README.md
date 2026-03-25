@@ -215,6 +215,36 @@
           <code>Python</code> <code>Automatización</code> <code>CLI</code>
         </td>
       </tr>
+      <tr align="left">
+        <td>
+          <b>⏲️ TodoList</b>
+          <br>
+          <a href="https://github.com/vTriiXxy/Todolist.git" target="_blank">[Ver Proyecto]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Necesitaba refozar conocimientos..
+          <br>
+          <b>Solución:</b> Decidi realizar este proyecto basatante comun, ya que me servia para reforzar conocimiento y ademas es bastante escalable por lo que me parecio el mas acertado.
+        </td>
+        <td>
+          <code>Django</code> <code>Backend</code> <code>Fronted</code> <code>Sqlite3</code> 
+        </td>
+      </tr>
+      <tr align="left">
+        <td>
+          <b>⬇️ Downloader</b>
+          <br>
+          <a href="https://github.com/vTriiXxy/Todolist.git" target="_blank">[Ver Proyecto]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Descargar Mp3 y Mp4 de momento sin publicidad.
+          <br>
+          <b>Solución:</b> Se me ocurrio hacer un descargador desde Youtube ya que bastantes veces hacai este mismo proceso y estaba cansado de los anuncios y bueno se me ocurrio este proyecto que se puede correr en la Simbologia del Sistema.
+        </td>
+        <td>
+          <code>Python</code> <code>Cmd</code> 
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -241,10 +271,10 @@
     </thead>
     <tbody>
       <tr align="center">
-        <td><a href="#">📂 Nombre del Repositorio</a></td>
-        <td>Descripción del proyecto.</td>
-        <td>Lenguaje</td>
-        <td>Ramo</td>
+        <td><a href="https://github.com/vTriiXxy/Eva3_CristopherM..git">📖 Eva 3 Backend</a></td>
+        <td>Esta Evaluacion se trataba de crear un sistema simple de bibloteca, en donde basicamente podamos hacer un CRUD.</td>
+        <td>Python / Django / Css / Html / Js</td>
+        <td>Backend</td>
       </tr>
     </tbody>
   </table>
