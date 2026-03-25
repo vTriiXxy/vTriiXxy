@@ -108,9 +108,9 @@
   <table width="90%">
     <thead>
       <tr align="center">
-        <th>Certificado</th>
-        <th>Emisor</th>
-        <th>Año</th>
+        <th width="45%">Certificado</th>
+        <th width="30%">Emisor</th>
+        <th width="25%">Año</th>
       </tr>
     </thead>
     <tbody>
