@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-  <table width="80%">
+  <table width="90%">
     <tr align="center">
       <td width="33%">
         <span style="font-size: 50px;">🚀</span>
