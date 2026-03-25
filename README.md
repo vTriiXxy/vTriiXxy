@@ -245,40 +245,10 @@
     </thead>
     <tbody>
       <tr align="center">
-        <td><a href="#">📂 Evaluacion-POO-1</a></td>
-        <td>Sistema de gestión de ventas usando herencia.</td>
-        <td>Java</td>
-        <td>Backend & Programación</td>
-      </tr>
-      <tr align="center">
-        <td><a href="#">📂 Calculadora-Kotlin</a></td>
-        <td>App móvil básica de operaciones matemáticas.</td>
-        <td>Kotlin</td>
-        <td>Backend & Programación</td>
-      </tr>
-      <tr align="center">
-        <td><a href="#">📂 Landing-Page-Tarea</a></td>
-        <td>Maquetación semántica y estilos.</td>
-        <td>HTML/CSS</td>
-        <td>Desarrollo Web Front-End</td>
-      </tr>
-      <tr align="center">
-        <td><a href="#">📂 Formulario-JS</a></td>
-        <td>Validación de datos con JavaScript.</td>
-        <td>JS</td>
-        <td>Desarrollo Web Front-End</td>
-      </tr>
-      <tr align="center">
-        <td><a href="#">📂 Modelado-Relacional</a></td>
-        <td>Script SQL de creación de tablas.</td>
-        <td>SQL Server</td>
-        <td>Bases de Datos</td>
-      </tr>
-      <tr align="center">
-        <td><a href="#">📂 Consultas-Avanzadas</a></td>
-        <td>Ejercicios de Joins y Stored Procedures.</td>
-        <td>Oracle</td>
-        <td>Bases de Datos</td>
+        <td><a href="#">📂 Nombre del Repositorio</a></td>
+        <td>Descripción del proyecto.</td>
+        <td>Lenguaje</td>
+        <td>Ramo</td>
       </tr>
     </tbody>
   </table>
