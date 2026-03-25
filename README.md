@@ -186,6 +186,21 @@
     <tbody>
       <tr align="left">
         <td>
+          <b>🕹️🎮 Documentacion Desbloqueo Ps Vita</b>
+          <br>
+          <a href="#" target="_blank">[Ver Documentacion]</a> | 
+        </td>
+        <td>
+          <b>Problema:</b> Gracias a mi Novia que me Regalo una Ps Vita Slim, quise ahondar en el Maravilloso rendimiento de esta consola y Desbloquearla.
+          <br>
+          <b>Solución:</b> Basicamente este repositorio aparte de ser un entretenimiento para mi, es una de mis experiencias que queria compartir y que otras personas tambien puedan sacarle el maximo provecho a su Ps Vita, ¡¡No quiero fomentar mala manipulacion de estos conocimientos¡¡.
+        </td>
+        <td>
+          <code>PlayStation</code> <code>IoT</code> <code>Tecnologia</code>
+        </td>
+      </tr>
+      <tr align="left">
+        <td>
           <b>🏆 Education Anywhere</b>
           <br>
           <a href="https://youtu.be/qZg3k767b3w" target="_blank">[Ver Proyectos]</a> | 
