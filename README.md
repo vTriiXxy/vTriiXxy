@@ -197,6 +197,21 @@
           <code>Innovación</code> <code>IoT</code> <code>Tecnologia</code>
         </td>
       </tr>
+      <tr align="left">
+        <td>
+          <b>🚀 Downloader</b>
+          <br>
+          <a href="#" target="_blank">[Ver Proyecto]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Necesidad de descargar contenido de forma masiva y automatizada.
+          <br>
+          <b>Solución:</b> Herramienta para descargar archivos de diversas fuentes de manera eficiente.
+        </td>
+        <td>
+          <code>Python</code> <code>Automatización</code> <code>CLI</code>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
