@@ -105,7 +105,7 @@
 <summary align="center">Haz clic para ver la lista de certificaciones</summary>
 <br>
 <div align="center">
-  <table width="80%">
+  <table width="90%">
     <thead>
       <tr align="center">
         <th>Certificado</th>
@@ -172,7 +172,7 @@
 <h2 align="center" id="proyectos-destacados">🚀 Proyectos Destacados</h2>
 
 <details>
-<summary align="center">Haga clic para desplegar Proyectos Destacados</summary>
+<summary align="center">Haz clic para ver la lista de proyectos destacados</summary>
 <br>
 <div align="center">
   <table width="90%">
@@ -202,14 +202,14 @@
       </tr>
       <tr align="left">
         <td>
-          <b>🚀 Downloader</b>
+          <b>🚀 Calculadora</b>
           <br>
           <a href="https://github.com/vTriiXxy/vTriiXxy.github.io.git" target="_blank">[Ver Proyecto]</a>
         </td>
         <td>
-          <b>Problema:</b> Necesidad de descargar contenido de forma masiva y automatizada.
+          <b>Problema:</b> Promediar notas de ramos con porcentaje de ponderacion y examenes finales.
           <br>
-          <b>Solución:</b> Herramienta para descargar archivos de diversas fuentes de manera eficiente.
+          <b>Solución:</b> Calculadora facil de utlizar, intuitiva que soluciona la necesidad de calcular promedios con Procentaje de Ponderacion.
         </td>
         <td>
           <code>Python</code> <code>Automatización</code> <code>CLI</code>
@@ -226,12 +226,8 @@
 
 <h2 align="center" id="proyectos-universitarios">🎓 Proyectos Universitarios (INACAP)</h2>
 
-<div align="center">
-<p>Repositorios de evaluaciones y laboratorios organizados por área.</p>
-</div>
-
 <details>
-<summary align="center">Haz clic para ver todos los proyectos universitarios</summary>
+<summary align="center">Haz clic para ver la lista de proyectos universitarios</summary>
 <br>
 <div align="center">
   <table width="90%">
