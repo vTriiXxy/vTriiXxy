@@ -234,7 +234,7 @@
         <td>
           <b>⬇️ Downloader</b>
           <br>
-          <a href="https://github.com/vTriiXxy/Todolist.git" target="_blank">[Ver Proyecto]</a>
+          <a href="https://github.com/vTriiXxy/Downloader.git" target="_blank">[Ver Proyecto]</a>
         </td>
         <td>
           <b>Problema:</b> Descargar Mp3 y Mp4 de momento sin publicidad.
