@@ -188,7 +188,7 @@
         <td>
           <b>🕹️🎮 Documentacion Desbloqueo Ps Vita</b>
           <br>
-          <a href="#" target="_blank">[Ver Documentacion]</a> | 
+          <a href="https://github.com/vTriiXxy/Desbloqueo-Playstation-Vita.git" target="_blank">[Ver Documentacion]</a> | 
         </td>
         <td>
           <b>Problema:</b> Gracias a mi Novia que me Regalo una Ps Vita Slim, quise ahondar en el Maravilloso rendimiento de esta consola y Desbloquearla.
