@@ -260,6 +260,21 @@
           <code>Python</code> <code>Cmd</code> 
         </td>
       </tr>
+      <tr align="left">
+        <td>
+          <b>🔢 Convertidor</b>
+          <br>
+          <a href="https://github.com/vTriiXxy/Convertidor_Bases_Numericas.git" target="_blank">[Ver Proyecto]</a>
+        </td>
+        <td>
+          <b>Problema:</b> Poder ahcer conversiones con distintas bases numericas de manera sencilla.
+          <br>
+          <b>Solución:</b> de Primera instancia queria crear un proyecto local (En mi computadora) en el cual tendria el codigo para runearlo ya sea de visual studio code o cmd, bueno en este caso dije este mismo proyecto me puede servir para otras ocaciones, y se me ocurrio la idea de un portable, la cual es un .exe donde se ejecuta en Simbologia de Sistema y de esta manera puedes hacer tus conversiones.
+        </td>
+        <td>
+          <code>Python</code> <code>Cmd</code> 
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
