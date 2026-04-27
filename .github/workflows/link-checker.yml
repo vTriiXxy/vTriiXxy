@@ -4,22 +4,27 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   schedule:
     # Se ejecuta semanalmente los domingos a medianoche
-    - cron: '0 0 * * 0'
+    - cron: "0 0 * * 0"
 
 jobs:
   link-checker:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Run Lychee Link Checker
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
           # Escanea recursivamente todos los archivos Markdown.
           args: "**/*.md"
-          # El token es necesario para que la action pueda acceder a la API de GitHub 
+          # El token es necesario para que la action pueda acceder a la API de GitHub
           # y evitar límites de tasa al verificar enlaces a otros repositorios.
           github_token: ${{secrets.GITHUB_TOKEN}}

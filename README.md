@@ -186,7 +186,20 @@
     <tbody>
       <tr align="left">
         <td>
-          <b>🏆 Education Anywhere</b>
+          <b>🍽️ Come y Cala Version Tobyas</b>
+          <br>
+          <a href="https://github.com/vTriiXxy/Come-y-Calla.git" target="_blank">[Ver Proyecto]</a>
+        </td>
+        <td>
+          <b>Descripción:</b> Una Web-App estática, interactiva y responsiva diseñada para gestionar una invitación personalizada de 'La Divina Comida'. El proyecto se centra en una experiencia de usuario 'Mobile-First', integrando activos visuales en 3D (CGI) y animaciones fluidas basadas en el scroll para narrar un menú gastronómico. Desarrollado con un enfoque en despliegue continuo mediante GitHub Pages.
+        </td>
+        <td>
+          <code>HTML5</code> <code>CSS3</code> <code>Bootstrap 5</code> <code>AOS.js</code> <code>GitHub Pages</code>
+        </td>
+      </tr>
+      <tr align="left">
+        <td>
+          <b>� Education Anywhere</b>
           <br>
           <a href="https://youtu.be/qZg3k767b3w" target="_blank">[Ver Proyectos]</a> | 
           <a href="https://www.youtube.com/watch?v=2gxnurP8-B8&t=4106s" target="_blank">[Ver Premiacion]</a>
