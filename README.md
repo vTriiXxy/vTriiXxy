@@ -47,21 +47,21 @@
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
           <img src="https://img.shields.io/badge/🚀_Actitud_Proactiva-0D1117?style=for-the-badge&logoColor=white" alt="Proactiva"><br><br>
-          <p>Responsable, puntual y con experiencia liderando equipos bajo presión.</p>
+          <p style="margin: 0; color: #C9D1D9;">Responsable, puntual y con experiencia liderando equipos bajo presión.</p>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
           <img src="https://img.shields.io/badge/💡_Innovación_con_Propósito-0D1117?style=for-the-badge&logoColor=white" alt="Innovación"><br><br>
-          <p>Ganador de SaviaLab 2021, donde aprendí que la tecnología debe tener un impacto real.</p>
+          <p style="margin: 0; color: #C9D1D9;">Ganador de SaviaLab 2021, donde aprendí que la tecnología debe tener un impacto real.</p>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
           <img src="https://img.shields.io/badge/🔭_Visión_a_Futuro-0D1117?style=for-the-badge&logoColor=white" alt="Visión"><br><br>
-          <p>Enriqueciendo mis conocimientos para roles de liderazgo técnico como Scrum Master.</p>
+          <p style="margin: 0; color: #C9D1D9;">Enriqueciendo mis conocimientos para roles de liderazgo técnico como Scrum Master.</p>
         </div>
       </td>
     </tr>
@@ -123,40 +123,39 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Power%20BI%20Daxus%20Latam/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Power%20BI%20Daxus%20Latam/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Power BI Diploma"/>
           </a>
           <br><br>
-          <b>Power BI Business Intelligence</b><br>
-          <small>🏢 Daxus Latam (2025)</small><br><br>
+          <b style="color: #E6EDF3;">Power BI Business Intelligence</b><br>
+          <small style="color: #8B949E;">🏢 Daxus Latam (2025)</small><br><br>
           <a href="assets/certificates/Power%20BI%20Daxus%20Latam/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Cisco/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Cisco IT Essentials"/>
           </a>
           <br><br>
-          <b>Cisco IT Essentials</b><br>
-          <small>🌐 Cisco Networking Academy (2024)</small><br><br>
-          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank">[D1]</a>
-          <a href="assets/certificates/Cisco/Diploma-2.pdf" target="_blank">[D2]</a>
-          <a href="assets/certificates/Cisco/Diploma-3.pdf" target="_blank">[D3]</a>
-          <a href="assets/certificates/Cisco/Insignia.png" target="_blank">[🖼️ Insignia]</a>
+          <b style="color: #E6EDF3;">Cisco IT Essentials</b><br>
+          <small style="color: #8B949E;">🌐 Cisco Networking Academy (2024)</small><br><br>
+          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D1]</a>
+          <a href="assets/certificates/Cisco/Diploma-2.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D2]</a>
+          <a href="assets/certificates/Cisco/Diploma-3.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D3]</a>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Santander%20Open%20Academy/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Santander%20Open%20Academy/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Santander Python Diploma"/>
           </a>
           <br><br>
-          <b>Introducción a Python</b><br>
-          <small>🏛️ Santander Open Academy (2025)</small><br><br>
+          <b style="color: #E6EDF3;">Introducción a Python</b><br>
+          <small style="color: #8B949E;">🏛️ Santander Open Academy (2025)</small><br><br>
           <a href="assets/certificates/Santander%20Open%20Academy/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
@@ -175,39 +174,39 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Desarrollo%20de%20Aplicaciones%20Iniciales/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Desarrollo%20de%20Aplicaciones%20Iniciales/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Aplicaciones Iniciales"/>
           </a>
           <br><br>
-          <b>Desarrollo de Apps Iniciales</b><br>
-          <small>🎓 INACAP (2025)</small><br><br>
+          <b style="color: #E6EDF3;">Desarrollo de Apps Iniciales</b><br>
+          <small style="color: #8B949E;">🎓 INACAP (2025)</small><br><br>
           <a href="assets/certificates/Desarrollo%20de%20Aplicaciones%20Iniciales/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Infraestructura%20TI%20Segura/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Infraestructura%20TI%20Segura/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Infraestructura TI"/>
           </a>
           <br><br>
-          <b>Infraestructura TI Segura</b><br>
-          <small>🎓 INACAP (2025)</small><br><br>
+          <b style="color: #E6EDF3;">Infraestructura TI Segura</b><br>
+          <small style="color: #8B949E;">🎓 INACAP (2025)</small><br><br>
           <a href="assets/certificates/Infraestructura%20TI%20Segura/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Electricidad%20y%20Automatizacion%20INACAP/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Electricidad%20y%20Automatizacion%20INACAP/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Electricidad INACAP"/>
           </a>
           <br><br>
-          <b>Electricidad y Automatización</b><br>
-          <small>🎓 INACAP (2022)</small><br><br>
+          <b style="color: #E6EDF3;">Electricidad y Automatización</b><br>
+          <small style="color: #8B949E;">🎓 INACAP (2022)</small><br><br>
           <a href="assets/certificates/Electricidad%20y%20Automatizacion%20INACAP/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
@@ -216,26 +215,26 @@
     </tr>
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Savialab/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Savialab/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="SaviaLab Winner"/>
           </a>
           <br><br>
-          <b>Ganador Concurso SaviaLab</b><br>
-          <small>💡 SaviaLab / Innovación (2021)</small><br><br>
+          <b style="color: #E6EDF3;">Ganador Concurso SaviaLab</b><br>
+          <small style="color: #8B949E;">💡 SaviaLab / Innovación (2021)</small><br><br>
           <a href="assets/certificates/Savialab/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/ACHS/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/ACHS/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="ACHS Seguridad"/>
           </a>
           <br><br>
-          <b>Seguridad Eléctrica Nivel 1</b><br>
-          <small>🛡️ ACHS (2021)</small><br><br>
+          <b style="color: #E6EDF3;">Seguridad Eléctrica Nivel 1</b><br>
+          <small style="color: #8B949E;">🛡️ ACHS (2021)</small><br><br>
           <a href="assets/certificates/ACHS/Diploma-1.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
@@ -262,9 +261,9 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr align="center">
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>💡 Education Anywhere</h3>
-          <p><b>Problema:</b> Conectividad limitada en zonas rurales durante pandemia.<br><b>Solución:</b> App educativa equitativa sin necesidad de internet constante.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">💡 Education Anywhere</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Problema:</b> Conectividad limitada en zonas rurales durante pandemia.<br><b style="color: #E6EDF3;">Solución:</b> App educativa equitativa sin necesidad de internet constante.</p>
           <p>
             <img src="https://img.shields.io/badge/Innovación-38BDF8?style=flat-square" alt="Innovación">
             <img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square" alt="IoT">
@@ -280,16 +279,16 @@
         </div>
       </td>
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>📊 Calculadora de Ponderaciones</h3>
-          <p><b>Problema:</b> Promediar notas de ramos con porcentajes y exámenes.<br><b>Solución:</b> Herramienta intuitiva que automatiza el cálculo de notas ponderadas.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">📊 Calculadora de Ponderaciones</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Problema:</b> Promediar notas de ramos con porcentajes y exámenes.<br><b style="color: #E6EDF3;">Solución:</b> Herramienta intuitiva que automatiza el cálculo de notas ponderadas.</p>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
             <img src="https://img.shields.io/badge/CLI-0D1117?style=flat-square" alt="CLI">
             <img src="https://img.shields.io/badge/Automatización-38BDF8?style=flat-square" alt="Automatización">
           </p>
           <br>
-          <a href="https://github.com/vTriiXxy/vTriiXxy.github.io.git" target="_blank">
+          <a href="https://github.com/vTriiXxy/vTriiXxy.github.io" target="_blank">
             <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
           </a>
         </div>
@@ -297,29 +296,29 @@
     </tr>
     <tr align="center">
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>🔢 Convertidor de Bases Numéricas</h3>
-          <p><b>Problema:</b> Conversión de distintas bases numéricas en redes de datos.<br><b>Solución:</b> Aplicación portable `.exe` ejecutable en CMD para cálculo rápido.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">🔢 Convertidor de Bases Numéricas</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Problema:</b> Conversión de distintas bases numéricas en redes de datos.<br><b style="color: #E6EDF3;">Solución:</b> Aplicación portable `.exe` ejecutable en CMD para cálculo rápido.</p>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
             <img src="https://img.shields.io/badge/Networking-38BDF8?style=flat-square" alt="Networking">
           </p>
           <br>
-          <a href="https://github.com/vTriiXxy/Convertidor_Bases_Numericas.git" target="_blank">
+          <a href="https://github.com/vTriiXxy/Convertidor_Bases_Numericas" target="_blank">
             <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
           </a>
         </div>
       </td>
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>⬇️ Downloader MP3 / MP4</h3>
-          <p><b>Problema:</b> Descargar audio/video de YouTube sin anuncios molestos.<br><b>Solución:</b> Script ejecutable en CMD para descargas directas.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">⬇️ Downloader MP3 / MP4</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Problema:</b> Descargar audio/video de YouTube sin anuncios molestos.<br><b style="color: #E6EDF3;">Solución:</b> Script ejecutable en CMD para descargas directas.</p>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
             <img src="https://img.shields.io/badge/CMD-0D1117?style=flat-square" alt="CMD">
           </p>
           <br>
-          <a href="https://github.com/vTriiXxy/Downloader.git" target="_blank">
+          <a href="https://github.com/vTriiXxy/Downloader" target="_blank">
             <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
           </a>
         </div>
@@ -328,63 +327,43 @@
   </table>
 </div>
 
-<!-- BOTÓN DESPLEGABLE "VER MÁS PROYECTOS (INCLUYE UNIVERSITARIOS)" -->
+<!-- BOTÓN DESPLEGABLE "VER MÁS PROYECTOS" -->
 <br>
 <details>
-<summary align="center"><b>🚀 Ver más Proyectos (Incluye Proyectos Universitarios)</b></summary>
+<summary align="center"><b>🚀 Ver más Proyectos</b></summary>
 <br>
 <div align="center">
   <table width="100%" style="border-collapse: collapse;">
     <tr align="center">
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>🍽️ Come y Calla (Versión Tobyas)</h3>
-          <p><b>Descripción:</b> Web-App estática e interactiva para gestionar una invitación personalizada de 'La Divina Comida'. Mobile-First con animaciones scroll AOS.js.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">🍽️ Come y Calla (Versión Tobyas)</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Descripción:</b> Web-App estática e interactiva para gestionar una invitación personalizada de 'La Divina Comida'. Mobile-First con animaciones scroll AOS.js.</p>
           <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
             <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
           </p>
           <br>
-          <a href="https://github.com/vTriiXxy/Come-y-Calla.git" target="_blank">
+          <a href="https://github.com/vTriiXxy/Come-y-Calla" target="_blank">
             <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
           </a>
         </div>
       </td>
       <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>⏲️ TodoList App</h3>
-          <p><b>Problema:</b> Consolidación de conocimientos fullstack backend/frontend.<br><b>Solución:</b> Web app de gestión de tareas escalable con persistencia.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left; color: #C9D1D9;">
+          <h3 style="color: #58A6FF; margin-top: 0;">⏲️ TodoList App</h3>
+          <p style="color: #C9D1D9;"><b style="color: #E6EDF3;">Problema:</b> Consolidación de conocimientos fullstack backend/frontend.<br><b style="color: #E6EDF3;">Solución:</b> Web app de gestión de tareas escalable con persistencia.</p>
           <p>
             <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
             <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
           </p>
           <br>
-          <a href="https://github.com/vTriiXxy/Todolist.git" target="_blank">
+          <a href="https://github.com/vTriiXxy/Todolist" target="_blank">
             <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
           </a>
         </div>
-      </td>
-    </tr>
-    <tr align="center">
-      <td width="50%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; text-align: left;">
-          <h3>🎓 Eva 3 Backend (INACAP)</h3>
-          <p><b>Descripción:</b> Sistema de gestión de biblioteca con desarrollo de operaciones CRUD completas para asignaturas universitarias.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-            <img src="https://img.shields.io/badge/INACAP-0077B5?style=flat-square" alt="INACAP">
-          </p>
-          <br>
-          <a href="https://github.com/vTriiXxy/Eva3_CristopherM..git" target="_blank">
-            <img src="https://img.shields.io/badge/💻_Ver_Código-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top" style="padding: 10px;">
-        <!-- Espacio libre -->
       </td>
     </tr>
   </table>
@@ -400,9 +379,9 @@
 <h2 id="contacto" align="center">📫 Contacto</h2>
 
 <div align="center">
-  <div style="background: #161B22; border: 1px solid #30363D; border-radius: 12px; padding: 25px; max-width: 650px;">
-    <p style="font-size: 16px; margin-bottom: 15px;">Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme!</p>
-    <p style="font-size: 15px;">Puedes escribirme directamente a:<br><br>
+  <div style="background: #161B22; border: 1px solid #30363D; border-radius: 12px; padding: 25px; max-width: 650px; color: #C9D1D9;">
+    <p style="font-size: 16px; margin-bottom: 15px; color: #C9D1D9;">Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme!</p>
+    <p style="font-size: 15px; color: #C9D1D9;">Puedes escribirme directamente a:<br><br>
       <a href="mailto:cris.macaya.91@gmail.com">
         <img src="https://img.shields.io/badge/📧_cris.macaya.91@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Enviar Email">
       </a>
@@ -426,15 +405,27 @@
   <table style="border-collapse: collapse; border: none;">
     <tr align="center">
       <td style="padding: 5px;">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=vTriiXxy&show_icons=true&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=30363D&count_private=true" alt="GitHub Stats"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=vTriiXxy&show_icons=true&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=30363D&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=vTriiXxy&show_icons=true&bg_color=F6F8FA&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&count_private=true">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=vTriiXxy&show_icons=true&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=30363D&count_private=true" alt="GitHub Stats"/>
+        </picture>
       </td>
       <td style="padding: 5px;">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&bg_color=161B22&title_color=38BDF8&text_color=c9d1d9&border_color=30363D" alt="Top Languages"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&bg_color=161B22&title_color=38BDF8&text_color=c9d1d9&border_color=30363D">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&border_color=D0D7DE">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vTriiXxy&layout=compact&bg_color=161B22&title_color=38BDF8&text_color=c9d1d9&border_color=30363D" alt="Top Languages"/>
+        </picture>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vTriiXxy&theme=react&bg_color=161B22&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vTriiXxy&theme=react&bg_color=161B22&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vTriiXxy&theme=github-compact&bg_color=F6F8FA&color=0969DA&line=0969DA&point=1F2328&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vTriiXxy&theme=react&bg_color=161B22&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%"/>
+  </picture>
 </div>
 
 <br>
@@ -446,8 +437,9 @@
 <div align="center">
   <p>
     <sub>
-      © 2025 - 2026 <b>Cristopher Macaya (vTriiXxy)</b> • Todos los derechos reservados.<br>
-      Diseñado & Creado con ❤️ | Protegido bajo <a href="LICENSE"><b>Licencia MIT</b></a>
+      © 2025 - 2026 <b>Cristopher Macaya (<a href="https://github.com/vTriiXxy" target="_blank" style="color: #58A6FF; text-decoration: none;">vTriiXxy</a>)</b> • Todos los derechos reservados.<br>
+      Diseñado & Creado con ❤️ | Protegido bajo <a href="LICENSE" style="color: #58A6FF;"><b>Licencia MIT</b></a><br>
+      <em>Si reutilizas o adaptas esta plantilla, se debe mantener visible la firma y créditos al autor original.</em>
     </sub>
   </p>
 </div>

@@ -1,0 +1,18 @@
+# Lychee link checker ignore list
+# Excluye dominios de redes sociales que bloquean rastreadores automatizados (HTTP 403 / 999)
+https://www.linkedin.com/.*
+https://linkedin.com/.*
+https://www.instagram.com/.*
+https://instagram.com/.*
+https://discordapp.com/.*
+https://discord.com/.*
+https://steamcommunity.com/.*
+https://www.reddit.com/.*
+https://reddit.com/.*
+
+# Servicios dinámicos y generadores de insignias externos (evitar falsos positivos por rate-limiting o caídas temporales)
+https://komarev.com/.*
+https://readme-typing-svg.herokuapp.com/.*
+https://github-readme-stats-fast.vercel.app/.*
+https://github-readme-activity-graph.vercel.app/.*
+https://git.io/.*
