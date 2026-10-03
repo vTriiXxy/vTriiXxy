@@ -1,14 +1,17 @@
 <!-- BANNER PRINCIPAL -->
 
 <div align="center">
-  <img src="assets/Banner_Actualizado_Github.png" width="100%" alt="Cristopher Macaya Banner" style="border-radius: 12px; margin-bottom: 12px;"/>
+  <picture>
+    <source srcset="assets/Banner_Actualizado_Github.webp" type="image/webp">
+    <img src="assets/Banner_Actualizado_Github.png" width="100%" alt="Cristopher Macaya Banner" style="border-radius: 12px; margin-bottom: 12px;"/>
+  </picture>
   
   <!-- ENCABEZADO Y PERFIL -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Cristopher+Macaya;Ingeniero+en+Inform%C3%A1tica;Hardware+%2B+Software+Integration" alt="Typing SVG" /></a>
   <p style="margin-top: 5px; margin-bottom: 15px;"><em>Ingeniero en Informática | Hardware & Software Integration</em></p>
 
   <!-- REDES SOCIALES Y ACCESOS RÁPIDOS -->
-  <a href="documents/Cv_Cristopher_Macaya.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Ver_CV-0D1117?style=for-the-badge&logo=googledocs&logoColor=38BDF8&labelColor=161B22" alt="Ver CV"></a>
+  <a href="https://raw.githubusercontent.com/vTriiXxy/vTriiXxy/main/documents/Cv_Cristopher_Macaya.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Ver_CV-0D1117?style=for-the-badge&logo=googledocs&logoColor=38BDF8&labelColor=161B22" alt="Ver CV"></a>
   <a href="https://www.linkedin.com/in/cristopher-macaya-59b148279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn"></a>
   <a href="https://github.com/vTriiXxy" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"></a>
   <a href="https://www.instagram.com/vtrixxy.y" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161B22" alt="Instagram"></a>
@@ -47,21 +50,27 @@
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
-          <img src="https://img.shields.io/badge/🚀_Actitud_Proactiva-0D1117?style=for-the-badge&logoColor=white" alt="Proactiva"><br><br>
-          <p style="margin: 0; color: #C9D1D9;">Responsable, puntual y con experiencia liderando equipos bajo presión.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 12px; padding: 24px 16px; color: #C9D1D9; min-height: 240px; box-sizing: border-box;">
+          <p style="font-size: 38px; margin: 0 0 12px 0;">🚀</p>
+          <img src="https://img.shields.io/badge/Actitud_Proactiva-0D1117?style=for-the-badge&logoColor=white" alt="Proactiva"><br><br>
+          <p style="margin: 0 0 16px 0; color: #C9D1D9; font-size: 13.5px; line-height: 1.55;">Responsable, puntual y con experiencia liderando equipos bajo presión.</p>
+          <img src="https://img.shields.io/badge/Pilar-Liderazgo-38BDF8?style=flat-square" alt="Liderazgo">
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
-          <img src="https://img.shields.io/badge/💡_Innovación_con_Propósito-0D1117?style=for-the-badge&logoColor=white" alt="Innovación"><br><br>
-          <p style="margin: 0; color: #C9D1D9;">Ganador de SaviaLab 2021, donde aprendí que la tecnología debe tener un impacto real.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 12px; padding: 24px 16px; color: #C9D1D9; min-height: 240px; box-sizing: border-box;">
+          <p style="font-size: 38px; margin: 0 0 12px 0;">💡</p>
+          <img src="https://img.shields.io/badge/Innovación_con_Propósito-0D1117?style=for-the-badge&logoColor=white" alt="Innovación"><br><br>
+          <p style="margin: 0 0 16px 0; color: #C9D1D9; font-size: 13.5px; line-height: 1.55;">Ganador de SaviaLab 2021, donde aprendí que la tecnología debe tener un impacto real.</p>
+          <img src="https://img.shields.io/badge/Pilar-Innovación-38BDF8?style=flat-square" alt="Innovación">
         </div>
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 18px; color: #C9D1D9;">
-          <img src="https://img.shields.io/badge/🔭_Visión_a_Futuro-0D1117?style=for-the-badge&logoColor=white" alt="Visión"><br><br>
-          <p style="margin: 0; color: #C9D1D9;">Enriqueciendo mis conocimientos para roles de liderazgo técnico como Scrum Master.</p>
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 12px; padding: 24px 16px; color: #C9D1D9; min-height: 240px; box-sizing: border-box;">
+          <p style="font-size: 38px; margin: 0 0 12px 0;">🔭</p>
+          <img src="https://img.shields.io/badge/Visión_a_Futuro-0D1117?style=for-the-badge&logoColor=white" alt="Visión"><br><br>
+          <p style="margin: 0 0 16px 0; color: #C9D1D9; font-size: 13.5px; line-height: 1.55;">Enriqueciendo mis conocimientos para roles de liderazgo técnico como Scrum Master.</p>
+          <img src="https://img.shields.io/badge/Pilar-Agilidad_&_Scrum-38BDF8?style=flat-square" alt="Scrum">
         </div>
       </td>
     </tr>
@@ -124,6 +133,32 @@
     <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
+          <a href="assets/certificates/Inmersi%C3%B3n%20Inteligencia%20Artificial%20en%20la%20Practica/Certificado%20Daxus%20-%20Inmersi%C3%B3n%20IA%20en%20la%20Pr%C3%A1ctica.pdf" target="_blank">
+            <img src="assets/certificates/Inmersi%C3%B3n%20Inteligencia%20Artificial%20en%20la%20Practica/Inmersi%C3%B3n%20Inteligencia%20Artificial%20en%20la%20Practica_Daxus%20Latam.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Inmersión IA en la Práctica"/>
+          </a>
+          <br><br>
+          <b style="color: #E6EDF3;">Inmersión IA en la Práctica</b><br>
+          <small style="color: #8B949E;">🤖 Daxus Latam (2026)</small><br><br>
+          <a href="assets/certificates/Inmersi%C3%B3n%20Inteligencia%20Artificial%20en%20la%20Practica/Certificado%20Daxus%20-%20Inmersi%C3%B3n%20IA%20en%20la%20Pr%C3%A1ctica.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
+          </a>
+        </div>
+      </td>
+      <td width="33%" valign="top" style="padding: 10px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
+          <a href="assets/certificates/El%20Nuevo%20Programador%20-%20Desarrollo%20con%20IA/Certificado%20de%20Asistencia%20al%20Curso%20con%20IA%20-El%20Nuevo%20Programador.pdf" target="_blank">
+            <img src="assets/certificates/El%20Nuevo%20Programador%20-%20Desarrollo%20con%20IA/El%20Nuevo%20Programador%20-%20BIG%20school%20y%20Mouredev.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="El Nuevo Programador - Desarrollo con IA"/>
+          </a>
+          <br><br>
+          <b style="color: #E6EDF3;">El Nuevo Programador - IA</b><br>
+          <small style="color: #8B949E;">💻 BIG school / Mouredev (2026)</small><br><br>
+          <a href="assets/certificates/El%20Nuevo%20Programador%20-%20Desarrollo%20con%20IA/Certificado%20de%20Asistencia%20al%20Curso%20con%20IA%20-El%20Nuevo%20Programador.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
+          </a>
+        </div>
+      </td>
+      <td width="33%" valign="top" style="padding: 10px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Power%20BI%20Daxus%20Latam/Diploma-1.pdf" target="_blank">
             <img src="assets/certificates/Power%20BI%20Daxus%20Latam/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Power BI Diploma"/>
           </a>
@@ -135,19 +170,18 @@
           </a>
         </div>
       </td>
-      <td width="33%" valign="top" style="padding: 10px;">
-        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
-          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank">
-            <img src="assets/certificates/Cisco/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Cisco IT Essentials"/>
-          </a>
-          <br><br>
-          <b style="color: #E6EDF3;">Cisco IT Essentials</b><br>
-          <small style="color: #8B949E;">🌐 Cisco Networking Academy (2024)</small><br><br>
-          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D1]</a>
-          <a href="assets/certificates/Cisco/Diploma-2.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D2]</a>
-          <a href="assets/certificates/Cisco/Diploma-3.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D3]</a>
-        </div>
-      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- BOTÓN DESPLEGABLE "VER MÁS CERTIFICACIONES" -->
+<br>
+<details>
+<summary align="center"><b>📜 Ver más Certificaciones & Logros (7 adicionales)</b></summary>
+<br>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Santander%20Open%20Academy/Diploma-1.pdf" target="_blank">
@@ -161,18 +195,6 @@
           </a>
         </div>
       </td>
-    </tr>
-  </table>
-</div>
-
-<!-- BOTÓN DESPLEGABLE "VER MÁS CERTIFICACIONES" -->
-<br>
-<details>
-<summary align="center"><b>📜 Ver más Certificaciones & Logros (5 adicionales)</b></summary>
-<br>
-<div align="center">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Desarrollo%20de%20Aplicaciones%20Iniciales/Diploma-1.pdf" target="_blank">
@@ -199,6 +221,21 @@
           </a>
         </div>
       </td>
+    </tr>
+    <tr align="center">
+      <td width="33%" valign="top" style="padding: 10px;">
+        <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
+          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank">
+            <img src="assets/certificates/Cisco/Diploma-1.png" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363D;" alt="Cisco IT Essentials"/>
+          </a>
+          <br><br>
+          <b style="color: #E6EDF3;">Cisco IT Essentials</b><br>
+          <small style="color: #8B949E;">🌐 Cisco Networking Academy (2024)</small><br><br>
+          <a href="assets/certificates/Cisco/Diploma-1.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D1]</a>
+          <a href="assets/certificates/Cisco/Diploma-2.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D2]</a>
+          <a href="assets/certificates/Cisco/Diploma-3.pdf" target="_blank" style="color: #58A6FF; text-decoration: none;">[D3]</a>
+        </div>
+      </td>
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Electricidad%20y%20Automatizacion%20INACAP/Diploma-1.pdf" target="_blank">
@@ -212,8 +249,6 @@
           </a>
         </div>
       </td>
-    </tr>
-    <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/Savialab/Diploma-1.pdf" target="_blank">
@@ -227,6 +262,8 @@
           </a>
         </div>
       </td>
+    </tr>
+    <tr align="center">
       <td width="33%" valign="top" style="padding: 10px;">
         <div style="background: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 12px; color: #E6EDF3;">
           <a href="assets/certificates/ACHS/Diploma-1.pdf" target="_blank">
@@ -239,6 +276,9 @@
             <img src="https://img.shields.io/badge/📄_Ver_PDF-0D1117?style=flat-square&logoColor=white" alt="Ver PDF">
           </a>
         </div>
+      </td>
+      <td width="33%" valign="top" style="padding: 10px;">
+        <!-- Espacio libre -->
       </td>
       <td width="33%" valign="top" style="padding: 10px;">
         <!-- Espacio libre -->
@@ -387,8 +427,11 @@
       </a>
     </p>
     <br>
-    <a href="documents/Cv_Cristopher_Macaya.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Ver_CV-0D1117?style=for-the-badge&logo=googledocs&logoColor=38BDF8&labelColor=161B22" alt="Ver CV">
+    <a href="https://raw.githubusercontent.com/vTriiXxy/vTriiXxy/main/documents/Cv_Cristopher_Macaya.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Ver_CV_(PDF)-0D1117?style=for-the-badge&logo=googledocs&logoColor=38BDF8&labelColor=161B22" alt="Ver CV PDF">
+    </a>
+    <a href="https://github.com/vTriiXxy/vTriiXxy/blob/main/documents/Cv_Cristopher_Macaya.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/👁️_Ver_en_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Ver CV en GitHub">
     </a>
   </div>
 </div>
